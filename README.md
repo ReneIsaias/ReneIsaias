@@ -1,6 +1,4 @@
-### Hi there 👋, Mi nombre es Rene
-#### Soy estudiante de la carrera de Ing. en Sistemas Computacionales, estudio en el TESJI
-![Soy estudiante de la carrera de Ing. en Sistemas Computacionales, estudio en el TESJI](https://w.wallhaven.cc/full/3k/wallhaven-3k2y79.jpg)
+### Hola, bienvenido 👋, mi nombre es René Isaias
 
 Mi objetivo es formarme como desarrollador en las áreas del desarrollo web, desarrollo móvil, manejo de bases de datos SQL y NoSQL, y análisis de datos.
 
