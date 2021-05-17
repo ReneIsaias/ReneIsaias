@@ -1,6 +1,6 @@
 # BIENVENIDOS
 
-### Hola 👋
+## Hola 👋
 ### Soy René Isaias y estoy aprendiendo y sumergiendome en el mundo del desarrollo, por el momentoestoy iniciando con el desarrollo web
 
 ![Developer](https://w.wallhaven.cc/full/3k/wallhaven-3k2y79.jpg)
@@ -20,11 +20,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Skills: PHP / LARAVEL / C# / VISUAL BASIC / DB / SQL / JAVA / HTML / CSS / BOOTSTRAP / SQL SERVER
 
-- 🔭 I’m currently working on proyectos propios que me permiten aplicar lo que aprendo. 
-- 🌱 I’m currently learning Javascript / Mongo DB / Flutter 
+```bash
+function presentacion()
+{
+    $nombre      = 'Rene Isaias';
+    $descripcion = 'Soy desarrollador web junior, me gusta desarrollar en la parte del backend';
+    $edad        = 23;
+    $país        = 'Mexico';
+    $lenguajes   = [
+        'PHP',
+        'C#',
+        'Visual Basic',
+        'Java',
+        'SQL',
+        'Java Script',
+    ];
+    $tecnologias = [
+        'Laravel',
+        'Bootstrap',
+        'Livewire',
+        'CSS',
+        'HTML',
+        'Vue JS',
+        'Tailwind CSS',
+    ];
+    $herramientas = [
+        'Git',
+        'Composer',
+        'Node JS',
+        'MySQL',
+        'SQL Server',
+        'WordPress',
+    ];
+    $SO = [
+        'Windows',
+        'Linux',
+    ];
+}
+```
+
+<!--
+- 🔭 Actualmente estoy haciendo proyectos que me permiten poner en practica lo que sé 
+- 🌱 Me gusta desarrollar aplicaciones web que soluciones problemas 
 - 📫 How to reach me: rene030498@gmail.com 
+-->
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ReneIsaias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rene-isaias-1826931b3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/canserberoo98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ReneIsaias98)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ReneIsaias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ren%C3%A9-isaias-mateos-b7a588210/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/reneIsaiasM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://github.com/ReneIsaias)
