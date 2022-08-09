@@ -3,7 +3,7 @@
 # Hola 👋 soy René Isaias
 ## Desarrollador web enfocado en backed
 
-[Developer](https://w.wallhaven.cc/full/3k/wallhaven-3k2y79.jpg)
+![Developer](https://w.wallhaven.cc/full/3k/wallhaven-3k2y79.jpg)
 
 <!--
 **ReneIsaias/ReneIsaias** es un repositorio ✨ _special_ ✨ porque contiene mi descrición
