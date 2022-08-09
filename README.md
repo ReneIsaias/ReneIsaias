@@ -1,21 +1,21 @@
 # Hola 👋 soy René Isaias 🤗
-<hr>
-## Desarrollador web enfocado en backed 😉
 
-<!--
-**ReneIsaias/ReneIsaias** es un repositorio ✨ _special_ ✨ porque contiene mi descrición
+- Desarrollador web enfocado mas en el Backed 😉
+- Manejo de Bases de datos SQL 🛢 y NoSQL 🗜
+- Despliegue de proyectos en servidores como AWS ☁
+- Analisis de problemas para diseñar una solucion 📊
+- Integración de servicios REST 📤 y SOAP 📥
+- Desarrollo de webservices REST 🔒
 
-Algunos datos sobre mi:
+## Sobre mi
 
 - 🔭 Actualmente estoy trabajando en una empresa de rastreo satelital y desarrollo, Navigation
-- 🌱 Actualmente estoy desarrollando una plataforma con el framework laravel para poder hacer envios 
-- 👯 Busco colaborar en proyectos que me permitan seguir aprendiendo y solucionar u optimizar procesos de una mejor forma
-- 🤔 Busco ayuda con encontrar un equipo que me permita integrarme con ellos y poder aprender juntos
+- 🌱 Actualmente estoy desarrollando una plataforma con el framework laravel para poder cotizar y hacer envios 
+- 👯 Busco colaborar en proyectos que me permitan seguir aprendiendo y solucionar u optimizar procesos de una mejor forma con las mejores tecnologias
+- 🤔 Busco ayuda con encontrar un equipo que me permita integrarme con ellos para poder aprender y desarrollar nuevas soluciones
 - 💬 Pregúntame sobre lo que vos quiera
 - 📫 Cómo contactarme: rene030498@gmail.com
 - 😄 Pronombres: Canserbero
-- ⚡ Dato curioso: No lo se, tu dime
--->
 
 ## Presentación
 
@@ -36,7 +36,7 @@ function presentacion()
 
 ## Tecnologias
 
-<img height=50 title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/><img height=50 title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><img height=50 title="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/><img height=50 title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50 title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+<img height=50 title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>     <img height=50 title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>     <img height=50 title="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>     <img height=50 title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>     <img height=50 title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>     <img height=50 title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>     <img height=50 title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 
 ## Redes Sociales
 Que casi no uso 🥴
