@@ -2,10 +2,10 @@
 
 - Desarrollador web con más experiencia en Backend 😉
 - He trabajado con bases de datos SQL 🛢 y No SQL 🗜
-- He desplegado servicios en la nube AWS, entre otros ☁
+- He desplegado servicios en la nube de AWS, entre otros ☁
 - Análisis de problemas para diseñar una solución 📊
 - Integración de servicios REST 📤 y SOAP 📥
-- Desarrollo de webservices REST 🔒
+- Desarrollo de servicios REST 🔒
 
 ## Sobre mi
 
@@ -17,10 +17,10 @@
 - 📫 Cómo contactarme: rene030498@gmail.com
 - 😄 Pronombres: Canserbero
 
-## Presentación
+## Conocimientos
 
 ```bash
-function presentacion()
+function conocimientos()
 {        
     $lenguajesProgramacion = ['PHP', 'C#', 'Visual Basic', 'Java', 'SQL', 'JavaScript'];
     
